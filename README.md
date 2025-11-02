@@ -23,5 +23,4 @@ The intial setup and planning are complete - core gameplay and story logic will 
 # Author
 Skye Mckee
 MEng Computer Science Studet at University of Strathclyde
-[GitHub: RoseGold7115](https://github.com/RoseGold7115)  
-[LinkedIn](https://linkedin.com/in/skye-mckee-16901a385)
+[LinkedIn: Skye Mckee](https://linkedin.com/in/skye-mckee-16901a385)
