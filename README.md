@@ -22,5 +22,6 @@ The intial setup and planning are complete - core gameplay and story logic will 
 
 # Author
 Skye Mckee
-MEng Computer Science Studet at University of Strathclyde
+MEng Computer Science Student at University of Strathclyde
+
 [LinkedIn: Skye Mckee](https://linkedin.com/in/skye-mckee-16901a385)
